@@ -1,9 +1,12 @@
 # liri-bot
 use APIs with NODE
 
-SPOTIFY
-Client ID 13d1bb44d3bd49159634e57fc0426849
-Client Secret 55292c01f0764d8faa35db4aac09056e 
+Simply cd into your liri-bot directory, and enter node liri.js 
+followed by one of the following:
 
-OMDb
-Here is your key: 74595dc3
+ -- spotify-this-song (song title)
+ -- movie-this (movie title)
+ -- concert-this (musical artist)
+ -- do-what-it-says (takes inputs from random.txt instead of line input)
+ 
+ Much terminal, very information, so javascript.
